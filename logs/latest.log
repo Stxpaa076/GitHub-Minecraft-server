@@ -1,0 +1,118 @@
+[08:56:41] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-LTS; Microsoft Microsoft-10800198) on Linux 6.8.0-1027-azure (amd64)
+[08:56:41] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-227-ver/1.21.4@7675321 (2025-04-28T19:07:04Z) for Minecraft 1.21.4
+[08:56:41] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[08:56:46] [ServerMain/INFO]: [PluginInitializerManager] Initialized 9 plugins
+[08:56:46] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - AxGraves (1.19.3), ClickVillagers (1.3.1), Geyser-Spigot (2.7.1-SNAPSHOT), LifeStealZ (2.12.3), SkinsRestorer (15.6.2), ViaBackwards (5.3.2), ViaRewind (4.0.7), ViaVersion (5.3.2), floodgate (2.2.4-SNAPSHOT (b116-0e3163c))
+[08:56:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08:56:55] [ServerMain/INFO]: Loaded 1370 recipes
+[08:56:55] [ServerMain/INFO]: Loaded 1481 advancements
+[08:56:56] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[08:56:56] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 259.1ms
+[08:56:56] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[08:56:56] [Server thread/INFO]: Loading properties
+[08:56:56] [Server thread/INFO]: This server is running Paper version 1.21.4-227-ver/1.21.4@7675321 (2025-04-28T19:07:04Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[08:56:56] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[08:56:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:56:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:56:57] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[08:56:57] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[08:56:58] [Server thread/INFO]: Default game type: SURVIVAL
+[08:56:58] [Server thread/INFO]: Generating keypair
+[08:56:58] [Server thread/INFO]: Starting Minecraft server on *:19414
+[08:56:58] [Server thread/INFO]: Using epoll channel type
+[08:56:58] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[08:56:58] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[08:56:59] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.2
+[08:56:59] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.2 is now loaded. Registering protocol transformers and injecting...
+[08:57:00] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[08:57:00] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[08:57:00] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[08:57:00] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[08:57:01] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[08:57:01] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[08:57:02] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[08:57:02] [Server thread/INFO]: [floodgate] Took 1,023ms to boot Floodgate
+[08:57:02] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.2
+[08:57:02] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.7.1-SNAPSHOT
+[08:57:03] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[08:57:03] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[08:57:03] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.7
+[08:57:03] [Server thread/INFO]: [AxGraves] Loading server plugin AxGraves v1.19.3
+[08:57:03] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
+[08:57:03] [Server thread/INFO]: [LifeStealZ] Loading server plugin LifeStealZ v2.12.3
+[08:57:03] [Server thread/INFO]: [LifeStealZ] Loading LifeStealZ...
+[08:57:03] [Server thread/INFO]: [ClickVillagers] Loading server plugin ClickVillagers v1.3.1
+[08:57:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:57:03] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.7
+[08:57:03] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
+[08:57:04] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[08:57:05] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[08:57:05] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[08:57:05] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[08:57:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:57:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:57:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:57:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:57:05] [Server thread/INFO]: Preparing level "world"
+[08:57:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[08:57:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[08:57:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[08:57:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[08:57:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[08:57:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[08:57:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[08:57:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
+[08:57:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
+[08:57:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     A new version (15.6.3) is available! Downloading update...
+[08:57:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[08:57:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[08:57:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[08:57:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
+[08:57:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:57:06] [Server thread/INFO]: Preparing spawn area: 0%
+[08:57:06] [Server thread/INFO]: Preparing spawn area: 2%
+[08:57:06] [Folia Async Scheduler Thread #1/WARN]: [SkinsRestorer] [GitHubUpdate] SHA256 hash not found, cannot verify integrity
+[08:57:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 1063ms
+[08:57:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer.jar
+[08:57:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
+[08:57:07] [Server thread/INFO]: Preparing spawn area: 6%
+[08:57:08] [Server thread/INFO]: Preparing spawn area: 20%
+[08:57:08] [Server thread/INFO]: Time elapsed: 1768 ms
+[08:57:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:57:08] [Server thread/INFO]: Preparing spawn area: 0%
+[08:57:08] [Server thread/INFO]: Preparing spawn area: 20%
+[08:57:08] [Server thread/INFO]: Time elapsed: 890 ms
+[08:57:08] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.2
+[08:57:08] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
+[08:57:09] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[08:57:09] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.2
+[08:57:09] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.7.1-SNAPSHOT
+[08:57:10] [Server thread/INFO]: [AxGraves] Enabling AxGraves v1.19.3
+[08:57:12] [Server thread/INFO]: [LifeStealZ] Enabling LifeStealZ v2.12.3
+[08:57:12] [Server thread/INFO]: [LifeStealZ] Geyser found, enabling Bedrock player support.
+[08:57:12] [Server thread/INFO]: [LifeStealZ] Using language file: plugins/LifeStealZ/lang/en-US.yml
+[08:57:12] [Server thread/INFO]: [LifeStealZ] Using SQLite storage
+[08:57:13] [Server thread/INFO]: [LifeStealZ] LifeStealZ enabled!
+[08:57:13] [Server thread/INFO]: [ClickVillagers] Enabling ClickVillagers v1.3.1
+[08:57:13] [Server thread/INFO]: [ClickVillagers] Checking for updates...
+[08:57:13] [Server thread/INFO]: [spark] Starting background profiler...
+[08:57:14] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:57:14] [Server thread/INFO]: [Geyser-Spigot] 
+[08:57:14] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.7.1-b824 (git-master-b296f10)
+[08:57:14] [Server thread/INFO]: [Geyser-Spigot] 
+[08:57:14] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:57:20] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19414
+[08:57:20] [Server thread/INFO]: [Geyser-Spigot] Done (5.855s)! Run /geyser help for help!
+[08:57:20] [Server thread/INFO]: Done preparing level "world" (14.754s)
+[08:57:20] [Server thread/INFO]: Running delayed init tasks
+[08:57:20] [Server thread/INFO]: Done (41.851s)! For help, type "help"
+[08:57:20] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[08:57:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+pause<--[HERE]
+[08:57:23] [Craft Scheduler Thread - 1 - AxGraves/INFO]: AxGraves » There is a new version of AxGraves available! (current: 1.19.3 | latest: 1.19.4)
+[08:57:34] [User Authenticator #0/INFO]: UUID of player Halof_Schnitzler is 7adc88b2-cccd-3afe-af23-11a97b2db7be
+[08:57:35] [Server thread/INFO]: Halof_Schnitzler joined the game
+[08:57:35] [Server thread/INFO]: Halof_Schnitzler[/127.230.100.114:57021] logged in with entity id 37 at ([world]3169.6812726942894, -48.0, 1350.2439214606693)
+[09:12:40] [Server thread/INFO]: Halof_Schnitzler lost connection: Disconnected
+[09:12:40] [Server thread/INFO]: Halof_Schnitzler left the game
